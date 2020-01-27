@@ -1,0 +1,7 @@
+name: KillHealth
+authors:
+  - Vale914
+  - RubyTemple
+version: 1.0.0
+api: 3.0.0
+main: Vale914\KillHealth\Main
